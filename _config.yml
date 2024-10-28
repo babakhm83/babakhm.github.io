@@ -12,7 +12,7 @@ title                    : "Babak Hosseini Mohtasham"
 title_separator          : "-"
 name                     : &name "Babak Hosseini Mohtasham"
 description              : &description "personal description"
-url                      : https://babakhms.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://babakhm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "babakhm83/babakhm.github.io"
 
